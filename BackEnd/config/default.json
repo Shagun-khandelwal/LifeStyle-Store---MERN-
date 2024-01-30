@@ -1,0 +1,5 @@
+{
+    "port":"4569",
+    "db":"mongodb://localhost/The-Lifestyle-Store",
+    "jwtPrivateKey":"privatekey"
+}
